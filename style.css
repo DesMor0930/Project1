@@ -1,0 +1,44 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://cdn.hovia.com/app/uploads/pink-and-orange-70s-retro-wallpaper-mural-Plain-820x532.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: Verdana;
+  }
+  
+  .container {
+    max-width: 50%;
+    margin: auto;
+  }
+  
+  .container img {
+    object-fit: contain;
+    height: 100%;
+    width: 100%;
+    border-radius: 30px;
+    border: 3px solid greenyellow;
+  }
+  
+  .section {
+    border: 3px solid orange;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    background: rgb(255, 192, 203, 0.6);
+  }
+  
+  .heading {
+    font-size: 20px;
+    text-shadow: 2px 2px greenyellow;
+    text-align: center;
+  }
+  
+  .achievment-head {
+    font-weight: bold;
+    text-shadow: 2px 2px orange;
+  }
+  
+  a:hover {
+    background-color: greenyellow;
+  }
